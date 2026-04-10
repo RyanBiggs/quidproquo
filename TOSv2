@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy — QuidProQuo</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; max-width: 640px; margin: 40px auto; padding: 0 20px; color: #333; line-height: 1.6; }
+        h1 { font-size: 1.5em; }
+        h2 { font-size: 1.1em; margin-top: 1.5em; }
+        p { margin: 0.8em 0; }
+        .updated { color: #888; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p class="updated">Last updated: April 2026</p>
+
+    <h2>1. Overview</h2>
+    <p>QuidProQuo is a content publishing tool used internally to create and publish short-form educational videos. This policy explains how data is handled.</p>
+
+    <h2>2. Data We Collect</h2>
+    <p>This application does not collect, store, or process any personal data from viewers, users, or third parties. No cookies, tracking pixels, or analytics are used on this website.</p>
+
+    <h2>3. TikTok API</h2>
+    <p>This tool uses TikTok's Content Posting API solely to publish video content to the operator's own TikTok account. No TikTok user data is accessed, collected, or stored. The only data exchanged with TikTok is the video file, title, and description required for publishing.</p>
+
+    <h2>4. Data Storage</h2>
+    <p>All data related to content generation (scripts, video files, publishing metadata) is stored locally on the operator's infrastructure and is not shared with third parties.</p>
+
+    <h2>5. Third-Party Services</h2>
+    <p>The tool uses third-party APIs (TikTok, stock footage providers) for content creation and publishing. Each service is subject to its own privacy policy.</p>
+
+    <h2>6. Your Rights</h2>
+    <p>As no personal data is collected, there is no personal data to access, correct, or delete. If you believe your data has been processed in error, please contact us.</p>
+
+    <h2>7. Changes</h2>
+    <p>This policy may be updated from time to time. Any changes will be reflected on this page.</p>
+
+    <h2>8. Contact</h2>
+    <p>For privacy enquiries, contact: hello@quidproquo.uk</p>
+</body>
+</html>
