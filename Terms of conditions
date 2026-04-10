@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service — QuidProQuo</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; max-width: 640px; margin: 40px auto; padding: 0 20px; color: #333; line-height: 1.6; }
+        h1 { font-size: 1.5em; }
+        h2 { font-size: 1.1em; margin-top: 1.5em; }
+        p { margin: 0.8em 0; }
+        .updated { color: #888; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p class="updated">Last updated: April 2026</p>
+
+    <h2>1. About</h2>
+    <p>QuidProQuo is a content publishing tool that creates and publishes short-form educational videos to social media platforms including TikTok. The service is operated for internal use and is not offered as a public-facing consumer product.</p>
+
+    <h2>2. Use of the Service</h2>
+    <p>This application is used solely by its operator to publish original video content. It does not collect, store, or process personal data from end users or third parties.</p>
+
+    <h2>3. Intellectual Property</h2>
+    <p>All content published through this tool is original and owned by the operator. Third-party assets (stock footage, audio) are used under their respective licences.</p>
+
+    <h2>4. Third-Party Platforms</h2>
+    <p>This tool integrates with TikTok's Content Posting API. Use of TikTok is subject to TikTok's own Terms of Service.</p>
+
+    <h2>5. Disclaimer</h2>
+    <p>The service is provided "as is" without warranties of any kind. The operator is not liable for any damages arising from the use of content published through this tool.</p>
+
+    <h2>6. Changes</h2>
+    <p>These terms may be updated from time to time. Any changes will be reflected on this page.</p>
+
+    <h2>7. Contact</h2>
+    <p>For enquiries, contact: hello@quidproquo.uk</p>
+</body>
+</html>
